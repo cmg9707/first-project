@@ -82,7 +82,7 @@ class ItemRepositoryTest {
         for(Item item : itemList){
             System.out.println(item.toString());
         }
-
+//
     }
 
     @Test
